@@ -1,0 +1,1 @@
+This mini-project is going to involve deconstructing Google's homepage and rebuilding it from scratch in order to get some practice with HTML and CSS. I will be using Google Chrome's developer tools in order to help me with the styling of the homepage.
